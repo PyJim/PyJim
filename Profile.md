@@ -26,7 +26,7 @@
 <a href="https://twitter.com/essel_kodwo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="essel_kodwo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jimmykodwoessel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jimmykodwoessel" height="30" width="40" /></a>
 <a href="https://instagram.com/jimmykodwo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jimmykodwo" height="30" width="40" /></a>
-<a href="https://medium.com/@jimmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jimmy" height="30" width="40" /></a>
+<a href="https://medium.com/@cojjojimmy12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jimmy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
